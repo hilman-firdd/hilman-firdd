@@ -1,0 +1,14 @@
+{
+  "name": "portfolio-v4",
+  "version": "1.0.0",
+  "description": "Responsive Portofolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Hilman Firdaus",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
