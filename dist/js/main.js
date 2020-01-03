@@ -65,3 +65,8 @@ window.onclick = function (event) {
         }
     }
 }
+
+const d = document.getElementById('main-footer');
+const year = new Date();
+const ambilYear = year.getFullYear();
+d.textContent = `Copyright 2019 - ${ambilYear} `;

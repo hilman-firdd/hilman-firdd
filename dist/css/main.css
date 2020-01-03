@@ -1,3 +1,13 @@
+body {
+  font-family: 'Roboto Mono', monospace!important;
+  text-align: justify!important;
+}
+h3 {
+  font-size: 24px;
+}
+h6 {
+  font-size: 16px;
+}
 .menu-btn {
   position: absolute;
   z-index: 3;
@@ -281,7 +291,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url("../img/potrait_small.jpg");
+      background: url("../../img/potrait_small.jpg");
       width: 150px;
       height: 150px; }
   .about-info {
