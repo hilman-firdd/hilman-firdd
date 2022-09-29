@@ -1,7 +1,5 @@
 [![badge:twitter]](https://twitter.com/hilmanfirdaus48) [![badge:linkedin]](https://www.linkedin.com/in/hilman-firdd/) [![badge:resume]](https://portfolio-hilman-firdaus.vercel.app/frontend/assets/pdf/Hilman-Firdaus-CV.pdf)
 
-[![badge:twitter]](https://twitter.com/kerimatasih) [![badge:linkedin]](https://www.linkedin.com/in/arviantodwi/) [![badge:resume]](https://my.indeed.com/p/arviantodwiw-hsqsw5x) [![badge:codewar]](https://www.codewars.com/users/arviantodwi)
-
 # TL;DR <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3084_vam5PaUBOZubnfnTPYC2Zfj4JaiicECV.gif" width="32" />
 <!-- - 🔭 &nbsp; I’m currently looking for a new job in Front End role – preferably remote worldwide. -->
 - 💼 &nbsp; I'm part of [Hilfi Developer] team, a Fullstack Developer.
@@ -55,10 +53,10 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-Laravel/Vue               16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
-JavaScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.83% 
+Vue Js             16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
+Laravel               11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.83% 
 HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-Vue                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+Springboot                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
