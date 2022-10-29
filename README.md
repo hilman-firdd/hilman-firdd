@@ -13,7 +13,7 @@
 
 # Hello, hello! <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2411_HZWARHWk0TImR0UBwvuHRUXPorcBwWs1.gif" width="32" />
 
-Call me Hilman 🔊[(/hilmanː/)] (he/him). I currently live in Indonesia 🇮🇩. I've been working interchangeably as Front End Engineer & UI Designer for the last 4 years and now focusing myself on the Front End side. I know couple stuff of Back End Development but not very good at memorizing things for a long time (quick learner problem lol).
+Call me Hilman 🔊[(/hilmanː/)] (he/him). I currently live in Indonesia 🇮🇩. I've been working interchangeably as Front End Engineer. I know couple stuff of Back End Development but not very good at memorizing things for a long time (quick learner problem lol).
 
 <!-- Did I mention that I was looking for a new job? Yes, I am currently looking for a next job where I can shift my career and fully focus on Front End Development. -->
 
