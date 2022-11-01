@@ -23,7 +23,7 @@ Call me Hilman 🔊[(/hilmanː/)] (he/him). I currently live in Indonesia 🇮�
 | Front End ✨  | `HTML` `CSS3` `(S)CSS` `ES6` `Vue` `Nuxt Js` `Bootstrap` `Tailwind`           |
 | Back End ⚡️   | `PHP` `Laravel/Livewire` `MySQL` `MongoDB` `REST API` `Firebase`                 |
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
-| Generalist 🛠 | `Git` `Docker` `VSCode` `NPM` `Yarn` `Webpack` `CI/CD`    |
+| Generalist 🛠  | `Git` `Docker` `VSCode` `NPM` `Yarn` `Webpack` `CI/CD`    |
 
 ## My Stats <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3104_JHkrGQkijIv75krokr6AkrF8wlTa4oXL.gif" width="28" />
 <!--START_SECTION:waka-->
