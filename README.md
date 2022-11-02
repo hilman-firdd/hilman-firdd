@@ -25,7 +25,10 @@ Call me Hilman Firdd🔊[(/hilmanː/)] (he/him). I currently live in Indonesia �
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | Generalist 🛠  | `Git` `Docker` `VSCode` `NPM` `Yarn` `Webpack` `CI/CD`    |
 
-## My Stats <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3104_JHkrGQkijIv75krokr6AkrF8wlTa4oXL.gif" width="28" />
+## My Stats 
+[![Hilman Firdd GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman-firdd)](https://github.com/hilman-firdd/github-readme-stats)
+
+<img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3104_JHkrGQkijIv75krokr6AkrF8wlTa4oXL.gif" width="28" />
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
