@@ -26,7 +26,7 @@ Call me Hilman Firdd🔊[(/hilmanː/)] (he/him). I currently live in Indonesia �
 | Generalist 🛠  | `Git` `Docker` `VSCode` `NPM` `Yarn` `Webpack` `CI/CD`    |
 
 ## My Stats 
-[![Hilman Firdd GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman-firdd)](https://github.com/hilman-firdd/github-readme-stats)
+[![Hilman Firdd GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman-firdd&show_icons=true&theme=radical)](https://github.com/hilman-firdd/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
