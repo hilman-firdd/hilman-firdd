@@ -35,25 +35,6 @@ Call me Hilman 🔊[(/hilmanː/)] (he/him). I currently live in Indonesia 🇮�
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-766%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    58 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.39% 
-🌆 Daytime    238 commits    ███████████░░░░░░░░░░░░░░   46.76% 
-🌃 Evening    87 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09% 
-🌙 Night      126 commits    ██████░░░░░░░░░░░░░░░░░░░   24.75%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -64,8 +45,6 @@ Springboot         3 repos             █░░░░░░░░░░░░�
 CSS                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
 
 ```
-
-
 
  Last Updated on 29/09/2022 17:41:19 UTC
 <!--END_SECTION:waka-->
