@@ -28,34 +28,6 @@ Call me Hilman 🔊[(/hilmanː/)] (he/him). I currently live in Indonesia 🇮�
 ## My Stats 
 [![Hilman Firdd GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman-firdd&show_icons=true&theme=radical)](https://github.com/hilman-firdd/github-readme-stats)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-766%20Thousand%20lines%20of%20code-blue)
-
-**I Mostly Code in TypeScript** 
-
-```text
-Vue Js             16 repos            █████████░░░░░░░░░░░░░░░░   39.02% 
-Laravel            11 repos            ██████░░░░░░░░░░░░░░░░░░░   26.83% 
-HTML               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-Springboot         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
-CSS                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-
-```
-
- Last Updated on 29/09/2022 17:41:19 UTC
 <!--END_SECTION:waka-->
-
-<!--
-## My portfolio <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3104_JHkrGQkijIv75krokr6AkrF8wlTa4oXL.gif" width="28px" />
-<center>
-| <img src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2015/12/wireframe-example-2.png" width="240" /> | <img src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2015/12/wireframe-example-2.png" width="240" /> |
-|---       |---       |
-| Reserved | Reserved |
-</center>
--->
 
 <!-- repository because its `README.md` (this file) appears on your GitHub profile.
