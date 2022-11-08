@@ -15,7 +15,7 @@
 
 Call me Hilman 🔊[(/hilmanː/)] (he/him). I currently live in Indonesia 🇮🇩. I've been working interchangeably as Front End Engineer. I know couple stuff of Back End Development but not very good at memorizing things for a long time (quick learner problem lol).
 
-## My Stats 
+## My Stats <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/man-technologist.png" width="28"/>
 [![Hilman Firdd GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman-firdd&show_icons=true&theme=radical)](https://github.com/hilman-firdd/github-readme-stats)
 
 ## My top-notch skills <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3077_O2SFhOsxCkfgqyVoBHutvxuoKMEx9XmF.gif" width="28" />
