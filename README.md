@@ -15,7 +15,8 @@
 
 Call me Hilman 🔊[(/hilmanː/)] (he/him). I currently live in Indonesia 🇮🇩. I've been working interchangeably as Front End Engineer. I know couple stuff of Back End Development but not very good at memorizing things for a long time (quick learner problem lol).
 
-<!-- Did I mention that I was looking for a new job? Yes, I am currently looking for a next job where I can shift my career and fully focus on Front End Development. -->
+## My Stats 
+[![Hilman Firdd GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman-firdd&show_icons=true&theme=radical)](https://github.com/hilman-firdd/github-readme-stats)
 
 ## My top-notch skills <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3077_O2SFhOsxCkfgqyVoBHutvxuoKMEx9XmF.gif" width="28" />
 | Field        | Skills                                                                               |
@@ -24,9 +25,6 @@ Call me Hilman 🔊[(/hilmanː/)] (he/him). I currently live in Indonesia 🇮�
 | Back End ⚡️   | `PHP` `Laravel/Livewire` `MySQL` `MongoDB` `REST API` `Firebase`                 |
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | Generalist 🛠  | `Git` `Docker` `VSCode` `NPM` `Webpack` `CI/CD`    |
-
-## My Stats 
-[![Hilman Firdd GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman-firdd&show_icons=true&theme=radical)](https://github.com/hilman-firdd/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
