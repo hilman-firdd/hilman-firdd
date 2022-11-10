@@ -9,8 +9,6 @@
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩.
 - 📫 &nbsp; I can be reached at `hilmanfirdaus48@gmail.com`. See you in my gmail!
 
----
-
 # Hello, hello! <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2411_HZWARHWk0TImR0UBwvuHRUXPorcBwWs1.gif" width="32" />
 
 Call me Hilman 🔊[(/hilmanː/)] (he/him). I currently live in Indonesia 🇮🇩. I've been working interchangeably as Front End Engineer. I know couple stuff of Back End Development but not very good at memorizing things for a long time (quick learner problem lol).
