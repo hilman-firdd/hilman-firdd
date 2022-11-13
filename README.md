@@ -11,7 +11,7 @@
 - 💼 &nbsp; I'm part of [Hilfi Developer] a Fullstack Developer.
 - 🌱 &nbsp; I’m currently learning DevOps and Javascript Expert.
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩.
-- 📫 &nbsp; I can be reached at `hilmanfirdaus48@gmail.com`. See you in my gmail!
+- 📫 &nbsp; I can be reached at `hilmanfirdaus48@gmail.com`. See you in my mail!
 
 # Hello, hello! <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2411_HZWARHWk0TImR0UBwvuHRUXPorcBwWs1.gif" width="32" />
 
