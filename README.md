@@ -13,8 +13,6 @@
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩.
 - 📫 &nbsp; I can be reached at `hilmanfirdaus48@gmail.com`. See you in my gmail! 👋
 
-# Hello, hello! <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/2411_HZWARHWk0TImR0UBwvuHRUXPorcBwWs1.gif" width="32" />
-
 ## My Stats <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/man-technologist.png" width="28"/>
 [![Hilman Firdd GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman-firdd&show_icons=true&theme=radical)](https://github.com/hilman-firdd/github-readme-stats)
 
