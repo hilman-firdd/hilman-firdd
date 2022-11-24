@@ -20,7 +20,7 @@
 | Field        | Skills                                                                               |
 |:-------------|:-------------------------------------------------------------------------------------|
 | Front End ✨  | `HTML` `CSS3` `(S)CSS` `ES6` `Vue` `Nuxt Js` `Bootstrap` `Tailwind`           |
-| Back End ⚡️   | `PHP` `Laravel` `MySQL` `MongoDB` `REST API` `Firebase` 'Java'                 |
+| Back End ⚡️   | `PHP` `Laravel` `MySQL` `MongoDB` `REST API` `Firebase`                |
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | Generalist 🛠  | `Git` `Docker` `VSCode` `NPM` `Webpack` `CI/CD`    |
 
