@@ -11,7 +11,7 @@
 - 💼 &nbsp; I'm part of [Hilfi Developer] a Fullstack Developer.
 - 🌱 &nbsp; I’m currently learning DevOps and Javascript Expert.
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩.
-- 📫 &nbsp; I can be reached at `hilmanfirdaus48@gmail.com`. See you in my mail! 👋
+- 📫 &nbsp; I can be reached at `hilmanfirdaus48@gmail.com`. See you in my gmail 👋
 
 ## My Stats <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/man-technologist.png" width="28"/>
 [![Hilman Firdd GitHub stats](https://github-readme-stats.vercel.app/api?username=hilman-firdd&show_icons=true&theme=radical)](https://github.com/hilman-firdd/github-readme-stats)
@@ -20,7 +20,7 @@
 | Field        | Skills                                                                               |
 |:-------------|:-------------------------------------------------------------------------------------|
 | Front End ✨  | `HTML` `CSS3` `(S)CSS` `ES6` `Vue` `Nuxt Js` `Bootstrap` `Tailwind`           |
-| Back End ⚡️   | `PHP` `Laravel` `MySQL` `MongoDB` `REST API` `Firebase`                 |
+| Back End ⚡️   | `PHP` `Laravel` `MySQL` `MongoDB` `REST API` `Firebase` 'Java'                 |
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | Generalist 🛠  | `Git` `Docker` `VSCode` `NPM` `Webpack` `CI/CD`    |
 
