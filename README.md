@@ -8,7 +8,7 @@
 <!-- - 🔭 &nbsp; I’m currently looking for a new job in Front End role – preferably remote worldwide. -->
 - 💼 &nbsp; I'm part of [Hilfi Developer] a Fullstack Developer.
 - 🌱 &nbsp; I’m currently learning DevOps and Javascript Expert.
-- 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩.
+- 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩
 - 📫 &nbsp; I can be reached at `hilmanfirdaus48@gmail.com`. See you in my gmail 👋
 
 ## My Stats <img src="http://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/man-technologist.png" width="28"/>
