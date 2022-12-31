@@ -20,7 +20,8 @@
 | Front End ✨  | `HTML` `CSS3` `(S)CSS` `ES6` `Vue` `Nuxt Js` `Bootstrap` `Tailwind`           |
 | Back End ⚡️   | `PHP` `Laravel` `Express Js` `MySQL` `MongoDB` `REST API` `Firebase`                |
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
-| Generalist 🛠  | `Git` `Docker` `VSCode` `NPM` `Webpack` `CI/CD`                |
+| CMS 🎨        | `Wordpress`                                                      |
+| Generalist 🛠 | `Git` `Docker` `VSCode` `NPM` `Webpack` `CI/CD`                |
 
 <!--END_SECTION:waka-->
 
