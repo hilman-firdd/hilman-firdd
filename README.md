@@ -22,6 +22,7 @@
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | CMS 🎨        | `Wordpress`                                                      |
 | Generalist 🛠 | `Git` `Docker` `VSCode` `NPM` `Webpack` `CI/CD`                |
+| QA 🥸        | `Katalon`                                                      |
 
 <!--END_SECTION:waka-->
 
