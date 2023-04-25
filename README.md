@@ -14,12 +14,13 @@
 ## My top-notch skills <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3077_O2SFhOsxCkfgqyVoBHutvxuoKMEx9XmF.gif" width="28" />
 | Field        | Skills                                                                               |
 |:-------------|:-------------------------------------------------------------------------------------|
-| Front End ✨  | `HTML` `CSS3` `(S)CSS` `ES6` `Vue` `Nuxt Js` `Bootstrap` `Tailwind` `React Js`  `Next Js`  |
-| Back End ⚡️   | `PHP` `Laravel` `Express Js` `MySQL` `MongoDB` `REST API` `Firebase`  |
+| Front End ✨  | `HTML` `CSS3` `Bootstrap` `Tailwind` `(S)CSS` `ES6` `Vue` `Nuxt Js`  `React Js`  `Next Js`  |
+| Back End ⚡️   | `PHP` `Laravel` `Express Js` `Springboot` `MySQL` `MongoDB` `REST API` `Firebase`  |
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | CMS 🎨        | `Wordpress`                                                      |
 | Generalist 🛠 | `Git` `Docker` `VSCode` `NPM` `Webpack` `CI/CD`                |
-| QA 🥸        | `Katalon`                                                      |
+| QA 🥸        | `Katalon` `Cypress` `CircleCI` `Mobile Testing` `API Testing` `Desktop Testing` |
+| PM Tools ⛑ | `Jira` `Gitlab` `Trello` `Slack` |
 
 <!--END_SECTION:waka-->
 
