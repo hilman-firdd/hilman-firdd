@@ -1,6 +1,6 @@
 <a href="https://twitter.com/hilmanfirdaus48">![badge:twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/hilman-firdd">![badge:linkedin](https://img.shields.io/badge/LinkedIn-66666?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://portfolio-hilman-firdaus.vercel.app">![badge:resume](https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=About.me&logoColor=white)</a>
+<a href="https://portfolio.hilfideveloper.com">![badge:resume](https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <a href="https://www.instagram.com/hilman_firdd">![badge:resume](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 
