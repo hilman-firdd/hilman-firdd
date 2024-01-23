@@ -18,8 +18,8 @@
 | Back End ⚡️   | `PHP` `Laravel` `Express Js` `Springboot` `MySQL` `MongoDB` `REST API` `Firebase`  |
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | CMS 🎨        | `Wordpress`                                                      |
-| Generalist 🛠 | `Git` `Docker` `VSCode` `NPM` `Webpack` `CI/CD`                |
-| QA 🥸        | `Katalon` `Cypress` `CircleCI` `Mobile Testing` `API Testing` `Desktop Testing` |
+| Generalist 🛠 | `Git` `Docker` `Yarn` `PNPM` `NPM` `Webpack` `CI/CD` `Kubernetes`         |
+| QA Tools 🥸   | `Katalon` `Cypress` `WebdriverIO` `Selenium` |
 | PM Tools ⛑ | `Jira` `Gitlab` `Trello` `Slack` |
 
 <!--END_SECTION:waka-->
