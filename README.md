@@ -16,12 +16,12 @@
 | Field        | Skills                                                                               |
 |:-------------|:-------------------------------------------------------------------------------------|
 | Front End ✨  | `HTML` `CSS3` `Bootstrap` `Tailwind` `(S)CSS` `ES6` `Vue` `Nuxt Js`  `React Js`  `Next Js`  |
-| Back End ⚡️   | `PHP` `Laravel` `Express Js` `Springboot` `MySQL` `MongoDB` `REST API` `Firebase`  |
+| Back End ⚡️    | `PHP` `Laravel` `Express Js` `Springboot` `MySQL` `MongoDB` `REST API` `Firebase`  |
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | CMS 🎨        | `Wordpress`                                                      |
 | Generalist 🛠 | `Git` `Docker` `Yarn` `PNPM` `NPM` `Webpack` `CI/CD` `Kubernetes`         |
-| QA Tools 🥸   | `Katalon` `Cypress` `WebdriverIO` `Selenium` |
-| PM Tools ⛑ | `Jira` `Gitlab` `Trello` `Slack` |
+| QA Tools 🥸   | `Katalon` `Cypress` `WebdriverIO` `Selenium` `Playwright` |
+| PM Tools ⛑   | `Jira` `Gitlab` `Trello` `Slack` |
 
 <!--END_SECTION:waka-->
 
