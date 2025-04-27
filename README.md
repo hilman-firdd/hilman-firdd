@@ -8,7 +8,7 @@
 <!-- - 🔭 &nbsp; I’m currently looking for a new job in Front End role – preferably remote worldwide. -->
 - 💼 &nbsp; I'm a Fullstack Developer.
 - 🌱 &nbsp; I’m currently learning.
-- DevOps and Javascript Expert.
+- DevOps and Javascript Expert
 - 🌱 &nbsp; Also to become a powerman software tester, manual and automation
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩
 - 📫 &nbsp; I can be reached at `hilmanfirdaus48@gmail.com`. See you in my gmail 👋
