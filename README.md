@@ -12,7 +12,7 @@
 - 🌱 &nbsp; AI Enthusiast..
 - 🌱 &nbsp; Also to become a powerman software tester, manual and automation..
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩
-- 📫 &nbsp; I can be reached at `hilmanfirdaus48@gmail.com`. See you in my gmail 👋
+- 📫 &nbsp; I can be reached at `halo@hilmanfirdd.my.id`. See you in my gmail 👋
 
 ## My top-tech skills <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3077_O2SFhOsxCkfgqyVoBHutvxuoKMEx9XmF.gif" width="28" />
 | Field        | Skills                                                                               |
@@ -22,8 +22,11 @@
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | CMS 🎨        | `Wordpress`                                                      |
 | Generalist 🛠 | `Git` `Docker` `Yarn` `PNPM` `NPM` `Webpack` `CI/CD` `Kubernetes`         |
-| QA Tools 🥸   | `Katalon` `Cypress` `WebdriverIO` `Selenium` `Playwright` |
-| PM Tools ⛑   | `Jira` `Gitlab` `Trello` `Slack` |
+| QA Tools 🥸   | `Katalon` `Cypress` `WebdriverIO` `Selenium` `Playwright` `TestCafe` `Appium` `Ranorex` `Taiko` `Puppeteer` `Nightwatch.js` `Espresso` `Detox` `UI Automator` `XCUITest` ``|
+| PM/Repo/Coordination Tools ⛑   | `Jira` `Gitlab` `Github` `Bitbucket` `Trello` `Slack` `Discord` `Confluence` |
+| Monitoring | `Prometheus + Grafana` `Splunk` `ELK Stack (Elasticsearch, Logstash, Kibana)` `Datadog` `New Relic`
+| Security (DevSecOps) | `SonarQube` `OWASP ZAP` `Burp Suite`
+| Cloud Platforms | `GCP` `Heroku` `DigitalOcean` `AWS` `Azure`
 
 <!--END_SECTION:waka-->
 
