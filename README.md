@@ -10,7 +10,7 @@
 - 🌱 &nbsp; I’m currently learning.
 - 🌱 &nbsp; DevOps and Javascript Expert.
 - 🌱 &nbsp; AI Enthusiast.
-- 🌱 &nbsp; Also to become a powerman software tester, manual and automation.
+- 🌱 &nbsp; Also to become a powerman software tester, sdet, qa engineer manual and automation.
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩
 - 📫 &nbsp; I can be reached at `halo@hilmanfirdd.my.id`. See you in my gmail 👋
 
@@ -23,7 +23,7 @@
 | CMS 🎨        | `Wordpress`                                                      |
 | Generalist 🛠 | `Git` `Docker` `Yarn` `PNPM` `NPM` `Webpack` `CI/CD` `Kubernetes`         |
 | QA Tools 🥸   | `Katalon` `Cypress` `WebdriverIO` `Selenium` `Playwright` `TestCafe` `Appium` `Ranorex` `Taiko` `Puppeteer` `Nightwatch.js` `Espresso` `Detox` `UI Automator` `XCUITest` ``|
-| PM/Repo/Coordination Tools ⛑   | `Jira` `Gitlab` `Github` `Bitbucket` `Trello` `Slack` `Discord` `Confluence` |
+| PM/Repo/Coordination Tools ⛑   | `Jira` `Gitlab` `Github` `Bitbucket` `Trello` `Slack` `Discord` `Confluence` `Notion` |
 | Monitoring | `Prometheus + Grafana` `Splunk` `ELK Stack (Elasticsearch, Logstash, Kibana)` `Datadog` `New Relic`
 | Security (DevSecOps) | `SonarQube` `OWASP ZAP` `Burp Suite`
 | Cloud Platforms | `GCP` `Heroku` `DigitalOcean` `AWS` `Azure`
