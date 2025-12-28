@@ -21,7 +21,7 @@
 | Back End ⚡️    | `PHP` `Laravel` `Express Js` `Springboot` `MySQL` `MongoDB` `REST API` `Firebase`  |
 | UI Design 🎨  | `Figma` `Adobe Photoshop` `Adobe XD`                              |
 | CMS 🎨        | `Wordpress`                                                      |
-| Generalist 🛠 | `Git` `Docker` `Yarn` `PNPM` `NPM` `Webpack` `CI/CD` `Kubernetes`         |
+| Generalist 🛠 | `Git` `Docker` `Yarn` `PNPM` `NPM` `Webpack` `CI/CD` `Kubernetes`  |
 | QA Tools 🥸   | `Katalon` `Cypress` `WebdriverIO` `Selenium` `Playwright` `TestCafe` `Appium` `Ranorex` `Taiko` `Puppeteer` `Nightwatch.js` `Espresso` `Detox` `UI Automator` `XCUITest` ``|
 | PM/Repo/Coordination Tools ⛑   | `Jira` `Gitlab` `Github` `Bitbucket` `Trello` `Slack` `Discord` `Confluence` `Notion` |
 | Monitoring | `Prometheus + Grafana` `Splunk` `ELK Stack (Elasticsearch, Logstash, Kibana)` `Datadog` `New Relic`
