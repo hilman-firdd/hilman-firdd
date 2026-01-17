@@ -7,7 +7,7 @@
 # TL;DR <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3084_vam5PaUBOZubnfnTPYC2Zfj4JaiicECV.gif" width="32" />
 <!-- - 🔭 &nbsp; I’m currently looking for a new job in Front End role – preferably remote worldwide. -->
 - 💼 &nbsp; I'm a Fullstack Developer.
-- 🌱 &nbsp; I’m currently learning...
+- 🌱 &nbsp; I’m currently learning..
 - 🌱 &nbsp; DevOps and Javascript Expert.,
 - 🌱 &nbsp; AI Enthusiast
 - 🌱 &nbsp; Also to become a powerman software tester, sdet, qa engineer manual and automation.
