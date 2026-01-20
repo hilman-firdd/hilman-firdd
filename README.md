@@ -13,7 +13,7 @@
 - 🌱 &nbsp; Also to become a powerman software tester, sdet, qa engineer manual and automation.
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩
 - 📫 &nbsp; I can be reached at `halo@hilmanfirdd.my.id`. See you in my gmail 👋
-- 
+  akxka
 
 ## My top-tech skills <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3077_O2SFhOsxCkfgqyVoBHutvxuoKMEx9XmF.gif" width="28" />
 | Field        | Skills                                                                               |
