@@ -10,7 +10,7 @@
 - 🌱 &nbsp; I’m currently learning..
 - 🌱 &nbsp; DevOps and Javascript Expert..
 - 🌱 &nbsp; AI Enthusiast..
-- 🌱 &nbsp; Also to become a powerman software tester, sdet, qa engineer manual and automation.
+- 🌱 &nbsp; Also to become a powerman software tester, sdet, qa engineer manual and automation..
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩
 - 📫 &nbsp; I can be reached at `halo@hilmanfirdd.my.id`. See you in my gmail 👋
   akxka
