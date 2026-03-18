@@ -3,19 +3,15 @@
 <a href="https://hilmanfirdd.my.id" target="_blank">![badge:resume](https://img.shields.io/badge/website-0077B5?style=for-the-badge&logo=About.me&logoColor=white)</a>
 <a href="https://www.instagram.com/hilman_firdd" target="_blank">![badge:resume](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 
-xxxxx
-
-
 # TL;DR <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3084_vam5PaUBOZubnfnTPYC2Zfj4JaiicECV.gif" width="32" />
 <!-- - 🔭 &nbsp; I’m currently looking for a new job in Front End role – preferably remote worldwide. -->
-- 💼 &nbsp; I'm a Fullstack Developer.....
-- 🌱 &nbsp; I’m currently learning......
-- 🌱 &nbsp; DevOps and Javascript Expert.....
-- 🌱 &nbsp; AI Enthusiast...
+- 💼 &nbsp; I'm a Fullstack Developer.
+- 🌱 &nbsp; I’m currently learning.
+- 🌱 &nbsp; DevOps and Javascript Expert.
+- 🌱 &nbsp; AI Enthusiast.
 - 🌱 &nbsp; Also to become a powerman software tester, sdet, qa engineer manual and automation...
 - 💬 &nbsp; I speak English 🏴󠁧󠁢󠁥󠁮󠁧󠁿 and Indonesian Language 🇮🇩
 - 📫 &nbsp; I can be reached at `halo@hilmanfirdd.my.id`. See you in my gmail 👋.
-  akxka
 
 ## My top-tech skills <img src="https://cdn.joypixels.com/products/previews/O6D7BMG8R2DMMNC4LLZH/3077_O2SFhOsxCkfgqyVoBHutvxuoKMEx9XmF.gif" width="28" />
 | Field        | Skills                                                                               |
