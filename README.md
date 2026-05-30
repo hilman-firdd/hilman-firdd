@@ -26,8 +26,6 @@
 | Monitoring | `Prometheus + Grafana` `Splunk` `ELK Stack (Elasticsearch, Logstash, Kibana)` `Datadog` `New Relic`
 | Security (DevSecOps) | `SonarQube` `OWASP ZAP` `Burp Suite`
 | Cloud Platforms | `GCP` `Heroku` `DigitalOcean` `AWS` `Azure`
-
-dodo rere
 <!--END_SECTION:waka-->
 
 <!-- repository because its `README.md` (this file) appears on your GitHub profile
