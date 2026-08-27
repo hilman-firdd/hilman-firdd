@@ -87,9 +87,6 @@ Jira · Trello · Slack
 Discord · Confluence · Notion
 
 📈 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=hilmanfirdaus48&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmanfirdaus48&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=hilmanfirdaus48&theme=tokyonight&hide_border=true" /> </div>
 🐍 Contribution Snake
 <div align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> </div>
 📚 Currently Learning
