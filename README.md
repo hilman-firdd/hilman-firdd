@@ -12,7 +12,7 @@ My interests and experience cover the complete software development lifecycle:
 ⚙️ Backend & API Development
 ☁️ DevOps & Cloud Engineering
 🧪 QA / SDET & Test Automation
-🛡️ DevSecOps & Application Security
+🛡️ DevSecOps & Application Security.
 🤖 AI & Software Engineering Automation
 
 I enjoy turning ideas into production-ready software while making sure the applications are well-tested, observable, secure, and easy to maintain.
