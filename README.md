@@ -10,7 +10,7 @@ My interests and experience cover the complete software development lifecycle:
 
 💻 Fullstack Web Development...
 ⚙️ Backend & API Development...
-☁️ DevOps & Cloud Engineering.
+☁️ DevOps & Cloud Engineering..
 🧪 QA / SDET & Test Automation.
 🛡️ DevSecOps & Application Security.
 🤖 AI & Software Engineering Automation
