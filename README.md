@@ -9,7 +9,7 @@ I'm a Fullstack Developer passionate about building reliable, scalable, and main
 My interests and experience cover the complete software development lifecycle:
 
 💻 Fullstack Web Development...
-⚙️ Backend & API Development..
+⚙️ Backend & API Development.../.
 ☁️ DevOps & Cloud Engineering.
 🧪 QA / SDET & Test Automation.
 🛡️ DevSecOps & Application Security.
